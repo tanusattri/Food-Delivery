@@ -14,3 +14,6 @@ This project is designed to demonstrate fundamental SQL skills and techniques us
 4. Customer Insights: Analyze customer ordering patterns based on names and locations.
 
 ## Project Structure
+1. Database Setup
+   - Database Creation: The project starts by creating a database named "FoodDelivery_db".
+   - Table Creation: A table named "Orders" is created to store delivery details.
